@@ -1,0 +1,93 @@
+[{
+  "_id": {
+    "$oid": "62386a439bd1bee3636ef64a"
+  },
+  "name": "Ramesh",
+  "subject": "maths",
+  "marks": 87
+},{
+  "_id": {
+    "$oid": "62386fac9bd1bee3636ef64b"
+  },
+  "name": "Ramesh",
+  "subject": "english",
+  "marks": 59
+},{
+  "_id": {
+    "$oid": "62386fb49bd1bee3636ef64c"
+  },
+  "name": "Ramesh",
+  "subject": "science",
+  "marks": 77
+},{
+  "_id": {
+    "$oid": "62386fc29bd1bee3636ef64d"
+  },
+  "name": "Rav",
+  "subject": "maths",
+  "marks": 62
+},{
+  "_id": {
+    "$oid": "62386fcb9bd1bee3636ef64e"
+  },
+  "name": "Rav",
+  "subject": "english",
+  "marks": 83
+},{
+  "_id": {
+    "$oid": "62386fd49bd1bee3636ef64f"
+  },
+  "name": "Rav",
+  "subject": "science",
+  "marks": 71
+},{
+  "_id": {
+    "$oid": "623878f69bd1bee3636ef650"
+  },
+  "name": "Alison",
+  "subject": "maths",
+  "marks": 84
+},{
+  "_id": {
+    "$oid": "623879009bd1bee3636ef651"
+  },
+  "name": "Alison",
+  "subject": "english",
+  "marks": 82
+},{
+  "_id": {
+    "$oid": "623879099bd1bee3636ef652"
+  },
+  "name": "Alison",
+  "subject": "science",
+  "marks": 86
+},{
+  "_id": {
+    "$oid": "623879129bd1bee3636ef653"
+  },
+  "name": "Steve",
+  "subject": "maths",
+  "marks": 81
+},{
+  "_id": {
+    "$oid": "623879239bd1bee3636ef654"
+  },
+  "name": "Steve",
+  "subject": "english",
+  "marks": 89
+},{
+  "_id": {
+    "$oid": "6238792d9bd1bee3636ef655"
+  },
+  "name": "Steve",
+  "subject": "science",
+  "marks": 77
+},{
+  "_id": {
+    "$oid": "623879399bd1bee3636ef656"
+  },
+  "name": "Jan",
+  "subject": "english",
+  "marks": 0,
+  "reason": "absent"
+}]
